@@ -1,0 +1,28 @@
+Initialised MCU Peripherals
+Initialised System Object
+Enabled EIS
+Calibrating DAC Current Values. Max Current: 0.300 A
+Calibration Data:
+DAC Value       Current (A)
+0x00            0.006
+0x1D            0.027
+0x22            0.045
+0x27            0.063
+0x2C            0.081
+0x30            0.099
+0x35            0.118
+0x3A            0.136
+0x3F            0.154
+0x44            0.172
+0x49            0.191
+0x4E            0.209
+0x53            0.227
+0x58            0.246
+0x5D            0.265
+0x62            0.288
+Setting DAC Square Wave Values. EIS Current: 0.150 A
+Temp+: -17.63 C, Temp-: -18.26 C, Delta T:  +625.00 mK, Vrms:  125.661 mV, VrmsNull: 2.173 mV, Vbatt: 12.110 V
+Temp+: -17.82 C, Temp-: -18.23 C, Delta T:  +406.25 mK, Vrms:  124.623 mV, VrmsNull: 2.193 mV, Vbatt: 12.113 V
+Temp+: -17.97 C, Temp-: -18.29 C, Delta T:  +320.31 mK, Vrms:  124.942 mV, VrmsNull: 2.181 mV, Vbatt: 12.113 V
+Temp+: -18.13 C, Temp-: -18.42 C, Delta T:  +289.06 mK, Vrms:  124.508 mV, VrmsNull: 2.148 mV, Vbatt: 12.114 V
+Temp+: -18.31 C, Temp-: -18.55 C, Delta T:  +242.19 mK, Vrms:  123.544 mV, VrmsNull: 2.173 mV, Vbatt: 12.113 V
